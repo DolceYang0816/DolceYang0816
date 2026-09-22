@@ -2,5 +2,7 @@
 
 ### Hello fellow human 💫
 👩‍💻 + ☕ + 💻 = Happiness.
+
 📫 How to reach me: Hit me up anytime!
+
 💐 Fun fact: 18 years of piano, and 18 years of painting. 🎹🎨
