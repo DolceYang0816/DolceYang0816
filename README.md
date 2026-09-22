@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=70">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Ars+et+Scientia">
+
 👩‍💻 + ☕ + 💻 = Happiness.
 
 📫 How to reach me: Hit me up anytime!
